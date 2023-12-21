@@ -1,1 +1,1 @@
-# weekly_Assessment
+# Data_Science_courses
